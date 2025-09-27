@@ -1,10 +1,15 @@
-# Hi there 👋 I'm Shiva Bhusal
+<table>
+<tr>
+<td width="60%"  style="vertical-align: top;">
 
-💻 **Software Engineer | Open Source Contributor | Full-Stack Developer**  
-
-I’m a Software Engineer with **10 years of experience** building scalable and high-performance web applications using **Ruby, Rails, and JavaScript**.  
-I’ve contributed to major open-source projects like **Rails**, **RubyGems**, and **Sidekiq**.  
-Passionate about clean code, distributed systems, and teaching — I enjoy solving complex problems and building tools that empower developers and businesses.  
+## 🫵🏻 Intro
+  
+💻 <b>Software Engineer | Open Source Contributor | Full-Stack Developer</b>  
+<br/>
+I’m a Software Engineer with <b>10 years of experience</b> building scalable and high-performance web applications using <b>Ruby, Rails, and JavaScript</b>.  
+<br/>
+I’ve contributed to major open-source projects like <b>Rails</b>, <b>RubyGems</b>, and <b>Sidekiq</b>.  
+Passionate about clean code, distributed systems, and teaching — I enjoy solving complex problems and building tools that empower developers and businesses.
 
 ---
 
@@ -12,6 +17,7 @@ Passionate about clean code, distributed systems, and teaching — I enjoy solvi
 - Building scalable apps with **Rails & React**  
 - Exploring **distributed databases** and **system design**  
 - Writing about engineering at [shivabhusal.com](https://shivabhusal.com)  
+
 
 ---
 
@@ -58,27 +64,44 @@ Passionate about clean code, distributed systems, and teaching — I enjoy solvi
 ![Web Security](https://img.shields.io/badge/Web_Security-5A20CB?style=flat&logo=datadog&logoColor=white) 
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-008080?style=flat&logo=codeberg&logoColor=white) 
 
+</td>
+
+<td style="vertical-align: top;">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivabhusal&layout=compact&theme=radical" alt="Top Languages" />
+  
 ---
 
 ## 🎓 Education
 **Tribhuvan University, Kathmandu**  
 Electronics & Communication Engineering (Full Scholarship)  
 
+
 ---
 
 ## 📫 Connect With Me
-- 🌐 [shivabhusal.com](https://shivabhusal.com)  
-- 💻 [GitHub](https://github.com/shivabhusal)  
-- 🏆 [Stack Overflow](https://stackoverflow.com/users/3437900/shiva)  
-- 🔗 [LinkedIn](https://linkedin.com/in/shivabhusal)
+- 🌐 [shivabhusal.com](https://shivabhusal.com)
+- 💻 [GitHub](https://github.com/shivabhusal),
+- 🏆 [Stack Overflow](https://stackoverflow.com/users/3437900/shiva),
+- 🔗 [LinkedIn](https://linkedin.com/in/shivabhusal),
 - ⏯️ [Youtube](https://www.youtube.com/@rorconsultant)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
----
+<br>
+<br>
+<br>
+<br>
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivabhusal&layout=compact&theme=radical)  
-
----
-
-✨ *Fun fact: I’ve contributed to open-source projects that power thousands of developers every day — and I’m still as excited about coding as I was when I first started.*  
+**Note**: If you like this page, please feel free to copy.
