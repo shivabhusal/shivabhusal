@@ -8,7 +8,7 @@
 <br/>
 I’m a Software Engineer with <b>10 years of experience</b> building scalable and high-performance web applications using <b>Ruby, Rails, and JavaScript</b>.  
 <br/>
-I’ve contributed to major open-source projects like <b>Rails</b>, <b>RubyGems</b>, and <b>Sidekiq</b>.  
+I’ve contributed to major open-source projects like <b>[Rails](https://github.com/rails/rails/pulls?q=+is%3Apr+is%3Aissue+author%3Ashivabhusal+)</b>, <b>[RubyGems](https://github.com/ruby/rubygems/pulls?q=+is%3Apr+author%3Ashivabhusal+)</b>, and <b>Sidekiq</b>.  
 Passionate about clean code, distributed systems, and teaching — I enjoy solving complex problems and building tools that empower developers and businesses.
 
 ---
