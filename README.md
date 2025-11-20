@@ -63,6 +63,7 @@ Passionate about clean code, distributed systems, and teaching — I enjoy solvi
 ![TDD](https://img.shields.io/badge/TDD-2E8B57?style=flat&logo=rubygems&logoColor=white) 
 ![Web Security](https://img.shields.io/badge/Web_Security-5A20CB?style=flat&logo=datadog&logoColor=white) 
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-008080?style=flat&logo=codeberg&logoColor=white) 
+![WebRTC](https://img.shields.io/badge/WebRTC-008080?style=flat&logo=webrtc&logoColor=white)
 
 </td>
 
